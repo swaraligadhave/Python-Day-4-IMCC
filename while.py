@@ -12,8 +12,10 @@
 
 # print("Password matched")  
 
-i = 0
-while i < 10:
-    print(i)
+i = 1
+while i<11:
+    print(i*7)
     i+=1
-    
+
+
+
